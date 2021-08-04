@@ -8,7 +8,7 @@
 - É grátis, isto aqui é um lance comunitário, de aprender junto, trocar conhecimento.
 
 #### Segundo semestre de 2021 (tele-encontros)
-##### sextas-feiras **9AM−10AM** (nove da manhã, UTC-3, Brasília) **a cada duas semanas**, início em 30/07/2021
+##### quartas-feiras **9AM−10AM** (nove da manhã, UTC-3, Brasília) **a cada uma semana**, início em 04/08/2021
 
 Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http://github.com/julianagomesberlin), [@fusalina](http://github.com/fusalina) e [@rgobatto](http://github.com/rgobatto)
  
