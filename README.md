@@ -10,30 +10,21 @@
 #### Segundo semestre de 2021 (tele-encontros)
 ##### quartas-feiras **9AM−10AM** (nove da manhã, UTC-3, Brasília) **a cada uma semana**, início em 04/08/2021
 
-Mediação: [@villares](http://github.com/villares), [@julianagomesberlin](http://github.com/julianagomesberlin), [@fusalina](http://github.com/fusalina) e [@rgobatto](http://github.com/rgobatto)
- 
 > Nem todo mundo vai poder esse horário, quem sabe outras pessoas se empolgam e se reúnem em outros horários?
-> Monte um grupo e procuramos na comunidade uma outra pessoa para mediar.
 
-- **1° encontro em 30/07/2021**
-  - Leia o prefácio! No primeiro dia vamos conversar sobre o prefácio, tirar dúvidas e indicar o que vai ser lido em seguida;
-  - Se você quiser receber um email com um lembrete e o link da sala, [cadastre-se aqui](https://tinyletter.com/clube-de-leitura-python). Usaremos o email unicamente para isso.
-  - O encontro vai ser por meio da ferramenta de vídeo-conferência [meet.jit.si](https://meet.jit.si/).
-    - Depois de um pouco de problemas técnicos, divididos em duas salas, deu certo...
+- **1° encontro em 04/08/2021**
+  - **Ler prefácio e capítulo 1**
+  - O encontro foi por meio da ferramenta de vídeo-conferência Google Meet
+    - O Google Meet encerrou a reunião depois de 1h, usaremos o [meet.jit.si](https://meet.jit.si) daqui pra frente.
   - Opcional: crie uma conta de usuário gratuita no [GitHub](https://github.com/signup) para poder participar do fórum de discussão em [github.com/clube-de-leitura-python/pense-em-python-2021/discussions](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
-    - Teve sugestão de escrever sobre motivações no fórum!
-    - Versão de apenas leitura do pad que usamos na conversa: https://pad.education/p/r.e0decf1a09206cabd1bfd3c531f080e8
+    - Esse fórum de discussão é do clube de leitura, podemos utilizar com respeito e carinho para juntos resolvermos nossos problemas
+    - No encontro do clube de leitura do dia 30/07/2021 foi sugerido postar motivações no fórum de discussão!!
     
-- **2° encontro em 13/08/2021**
-
-  - **Ler capítulos 1 e 2**
+- **2° encontro em (11 ou 12)/08/2021**
+  - **Ler capítulo 2**
   - Dúvidas no [fórum de discussão](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
   - Link para sala vai ser aqui... 
 
 ---
 
-![clube_de_leitura_python](https://user-images.githubusercontent.com/3694604/126589139-b52c2bc0-937a-4238-b3ba-189dec5d4c64.png)
-
----
-
-O clube de leitura Python não tem nehuma relação com a APyB mas seguimos o [Código de conduta da Python Brasil](https://python.org.br/cdc/). O time de resposta inicialmente será composto pelas pessoas mediadoras dos grupos.
+Este grupo não é O clube de leitura Python, que, por sua vez, não tem nehuma relação com a APyB mas seguimos o [Código de conduta da Python Brasil](https://python.org.br/cdc/). A ideia deste fork é ser uma implementação separada, experimental, da ideia do clube de leitura estudando pense em python. Alteramos informações para corresponder ao progresso do nosso grupo.
