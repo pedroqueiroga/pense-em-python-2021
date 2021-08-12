@@ -8,7 +8,7 @@
 - É grátis, isto aqui é um lance comunitário, de aprender junto, trocar conhecimento.
 
 #### Segundo semestre de 2021 (tele-encontros)
-##### quartas-feiras **9AM−10AM** (nove da manhã, UTC-3, Brasília) **a cada uma semana**, início em 04/08/2021
+##### quintas-feiras **18h-19h** **a cada uma semana**, início em 04/08/2021
 
 > Nem todo mundo vai poder esse horário, quem sabe outras pessoas se empolgam e se reúnem em outros horários?
 
@@ -20,10 +20,10 @@
     - Esse fórum de discussão é do clube de leitura, podemos utilizar com respeito e carinho para juntos resolvermos nossos problemas
     - No encontro do clube de leitura do dia 30/07/2021 foi sugerido postar motivações no fórum de discussão!!
     
-- **2° encontro em (11 ou 12)/08/2021**
+- **2° encontro em 12/08/2021**
   - **Ler capítulo 2**
   - Dúvidas no [fórum de discussão](https://github.com/clube-de-leitura-python/pense-em-python-2021/discussions)
-  - Link para sala vai ser aqui... 
+  - [salinha do jitsi](https://meet.jit.si/grupo-de-estudos-em-python-encontro-02)
 
 ---
 
